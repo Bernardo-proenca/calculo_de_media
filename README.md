@@ -21,3 +21,9 @@ python calculadora.py
 - Digite a segunda nota: 6
 - A média final é: 7.00
 - Status: APROVADO!
+
+## Autor e contato
+
+*Projeto feito por: Bernardo Proença*
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bernardoproenca/)
+- [![Email](https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail)](mailto:bernardoproencalast@gmail.com)
